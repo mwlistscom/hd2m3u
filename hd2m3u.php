@@ -3,7 +3,7 @@
  * @package     hd2m3u
  * @version     1.0
  * @author      John Martin (help@mwlists.com)
- * @copyright   (C) 2001 - 2021 MWLISTS.COM.  All rights reserved.
+ * @copyright   (C) 2001 - 2022 MWLISTS.COM.  All rights reserved.
  * @license     http://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html
  * @link        https://rockmym3u.com
  *
@@ -17,8 +17,7 @@
 //
 $use_duration = false;
 $group = "HDHOMERUN"; // add a group name
-$ip = "192.168.100.230"; //your hdhomerun ip
-
+$ip = "xxx.xxx.xxx.xx"; //your hdhomerun ip
 
 //
 // Make it happen
